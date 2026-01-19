@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.42766de0.css",
+    "main.js": "/MyPortfolio/static/js/main.777baace.js",
+    "static/media/Food.png": "/MyPortfolio/static/media/Food.71fe21aee619cf9ad4cf.png",
+    "static/media/Library.png": "/MyPortfolio/static/media/Library.baeb018dbc9fc18be139.png",
+    "static/media/Flipkart.png": "/MyPortfolio/static/media/Flipkart.74f07662db981d90a761.png",
+    "static/media/amazonclone.png": "/MyPortfolio/static/media/amazonclone.60a9fd6b1e77c38a9222.png",
+    "static/media/NewsApp.png": "/MyPortfolio/static/media/NewsApp.193ce9d9fb2ae2d1145f.png",
+    "static/media/boy.jpg": "/MyPortfolio/static/media/boy.05439d704dce5f50a015.jpg",
+    "static/media/java.png": "/MyPortfolio/static/media/java.1594248418c8da6da15e.png",
+    "static/media/text_editer.png": "/MyPortfolio/static/media/text_editer.d8689e2fe3fa079fd2a4.png",
+    "static/media/glassesimoji.png": "/MyPortfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/NoteBook.png": "/MyPortfolio/static/media/NoteBook.8cc254030a7891317439.png",
+    "static/media/Python.png": "/MyPortfolio/static/media/Python.ebb9b2fbac9f531dd9a3.png",
+    "static/media/c.png": "/MyPortfolio/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/thumbup.png": "/MyPortfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/JS.png": "/MyPortfolio/static/media/JS.e5c5bfd91dda79989f0a.png",
+    "static/media/humble.png": "/MyPortfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/MyPortfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/Leetcode4.png": "/MyPortfolio/static/media/Leetcode4.ff8a59420879610b9a50.png",
+    "static/media/wave.png": "/MyPortfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/MyPortfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/MyPortfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/MyPortfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/scroll.svg": "/MyPortfolio/static/media/scroll.e5ab27104eb183036764e2493b8904c8.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.42766de0.css.map": "/MyPortfolio/static/css/main.42766de0.css.map",
+    "main.777baace.js.map": "/MyPortfolio/static/js/main.777baace.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42766de0.css",
+    "static/js/main.777baace.js"
+  ]
+}
