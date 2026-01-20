@@ -1,6 +1,6 @@
 # Hi Coders, I am Ashvin
 
-My Website Live Demo [Ashvin Prtfolio](https://ashvinbambhaniya.github.io/).
+My Website Live Demo [Ashvin Portfolio](https://ashvinbambhaniya.github.io/).
 
 All the interesting things about myself you can see in this website.
 

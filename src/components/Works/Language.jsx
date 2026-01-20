@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import "./Language.css";
 import Golang from "../../img/golang.svg";
 import K8s from "../../img/k8s.svg";
-import React_logo from "../../img/logo192.png";
+import React_logo from "../../img/react.png";
 import JS from "../../img/JS.png";
 import Python from "../../img/Python.png";
 import { themeContext } from "../../Context";
