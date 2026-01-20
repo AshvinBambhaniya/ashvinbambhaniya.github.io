@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5152846b.css",
-    "main.js": "/static/js/main.6594347d.js",
+    "main.css": "/static/css/main.124be98b.css",
+    "main.js": "/static/js/main.eb14257e.js",
     "static/media/Food.png": "/static/media/Food.71fe21aee619cf9ad4cf.png",
     "static/media/Library.png": "/static/media/Library.baeb018dbc9fc18be139.png",
     "static/media/Flipkart.png": "/static/media/Flipkart.74f07662db981d90a761.png",
@@ -14,7 +14,6 @@
     "static/media/NoteBook.png": "/static/media/NoteBook.8cc254030a7891317439.png",
     "static/media/Python.png": "/static/media/Python.ebb9b2fbac9f531dd9a3.png",
     "static/media/c.png": "/static/media/c.83dfa097dfa94f707a41.png",
-    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/JS.png": "/static/media/JS.e5c5bfd91dda79989f0a.png",
     "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
     "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
@@ -25,11 +24,11 @@
     "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "static/media/scroll.svg": "/static/media/scroll.e5ab27104eb183036764e2493b8904c8.svg",
     "index.html": "/index.html",
-    "main.5152846b.css.map": "/static/css/main.5152846b.css.map",
-    "main.6594347d.js.map": "/static/js/main.6594347d.js.map"
+    "main.124be98b.css.map": "/static/css/main.124be98b.css.map",
+    "main.eb14257e.js.map": "/static/js/main.eb14257e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5152846b.css",
-    "static/js/main.6594347d.js"
+    "static/css/main.124be98b.css",
+    "static/js/main.eb14257e.js"
   ]
 }
