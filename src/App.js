@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Intro from "./components/Intro/Intro";
 import Skill from "./components/Services/Skill";
 import "./App.css";
-// import Experience from "./components/Experience/Experience";
+import Experience from "./components/Experience/Experience";
 import Language from "./components/Works/Language";
 import Portfolio from "./components/Portfolio/Portfolio";
 // import Testimonial from "./components/Testimonials/Testimonial";
@@ -50,7 +50,7 @@ function App() {
       <Navbar />
       <Intro />
       <Skill />
-      {/* <Experience /> */}
+      <Experience />
       <div className="contain">
         <Study />
       </div>
