@@ -15,24 +15,24 @@ const Experience = () => {
       viewport={{ once: false, amount: 0.25 }}
     >
       <motion.div className="achievement"
-        variants={zoomIn(0.8, 0.4)}
+        variants={zoomIn(0.1, 0.2)}
       >
         {/* darkMode */}
-        <div className="circle" style={{ color: darkMode ? 'var(--orange)' : '' }}>8+</div>
+        <div className="experience-circle" style={{ color: darkMode ? 'var(--orange)' : '' }}>2+</div>
         <span style={{ color: darkMode ? 'white' : '' }}>years </span>
         <span>Experience</span>
       </motion.div>
       <motion.div className="achievement"
         variants={zoomIn(0.8, 0.4)}
       >
-        <div className="circle" style={{ color: darkMode ? 'var(--orange)' : '' }}>20+</div>
+        <div className="experience-circle" style={{ color: darkMode ? 'var(--orange)' : '' }}>10+</div>
         <span style={{ color: darkMode ? 'white' : '' }}>completed </span>
         <span>Projects</span>
       </motion.div>
       <motion.div className="achievement"
         variants={zoomIn(0.8, 0.4)}
       >
-        <div className="circle" style={{ color: darkMode ? 'var(--orange)' : '' }}>5+</div>
+        <div className="experience-circle" style={{ color: darkMode ? 'var(--orange)' : '' }}>2</div>
         <span style={{ color: darkMode ? 'white' : '' }}>companies </span>
         <span>Work</span>
       </motion.div>

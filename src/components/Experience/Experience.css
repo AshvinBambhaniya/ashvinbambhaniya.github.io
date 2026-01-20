@@ -13,7 +13,7 @@
     flex-direction: column;    
     align-items: center;
 }
-.circle {
+.experience-circle {
     width: 4rem;
     height: 4rem;
     background: white;
@@ -26,7 +26,7 @@
     font-weight: bold;
     margin-bottom: 2rem;
 }
-.circle::before {
+.experience-circle::before {
     border-radius: 100%;
     content: '';
     background-image: linear-gradient(to bottom, #87e6fb 0%, #ffc05c 100%);
