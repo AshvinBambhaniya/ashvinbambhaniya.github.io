@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.edf7530b.css",
-    "main.js": "/static/js/main.cd056adb.js",
+    "main.js": "/static/js/main.c14c2797.js",
     "static/media/boy.jpg": "/static/media/boy.05439d704dce5f50a015.jpg",
     "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
     "static/media/Python.png": "/static/media/Python.ebb9b2fbac9f531dd9a3.png",
     "static/media/JS.png": "/static/media/JS.e5c5bfd91dda79989f0a.png",
     "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
     "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/Leetcode4.png": "/static/media/Leetcode4.ff8a59420879610b9a50.png",
+    "static/media/Leetcode.png": "/static/media/Leetcode.ff8a59420879610b9a50.png",
     "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
     "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
     "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
@@ -18,10 +18,10 @@
     "static/media/scroll.svg": "/static/media/scroll.e5ab27104eb183036764e2493b8904c8.svg",
     "index.html": "/index.html",
     "main.edf7530b.css.map": "/static/css/main.edf7530b.css.map",
-    "main.cd056adb.js.map": "/static/js/main.cd056adb.js.map"
+    "main.c14c2797.js.map": "/static/js/main.c14c2797.js.map"
   },
   "entrypoints": [
     "static/css/main.edf7530b.css",
-    "static/js/main.cd056adb.js"
+    "static/js/main.c14c2797.js"
   ]
 }
