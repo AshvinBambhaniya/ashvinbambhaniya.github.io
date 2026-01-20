@@ -47,7 +47,7 @@ const Intro = () => {
           <span>{text}<Cursor /></span>
           <span>
             Full Stack Developer with expertise in Golang, Node.js,
-            and Kubernetes-based scalable systems.
+            and Kubernetes-based scalable systems. Top Contributor to CNCF KubeVela.
           </span>
         </motion.div>
         <motion.div
@@ -86,7 +86,7 @@ const Intro = () => {
           transition={transition}
           className="floating-div"
         >
-          <FloatinDiv img={thumbup} text1="Cloud" text2="Native" />
+          <FloatinDiv img={Github} text1="Open Source" text2="Contributor" />
 
         </motion.div>
 
