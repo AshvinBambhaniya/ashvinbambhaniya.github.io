@@ -63,7 +63,7 @@
     border-radius: 5px;
 }
 
-.circle {
+.study-circle {
     border-radius: 50%;
     background: black;
     width: 1.2rem;
@@ -71,7 +71,7 @@
 
 }
 
-.circle::before {
+.study-circle::before {
     display: none;
 }
 
@@ -82,7 +82,7 @@
 
 
 @media screen and (max-width: 480px) {
-    .circle {
+    .study-circle {
         transform: scale(0.75);
     }
 

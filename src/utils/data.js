@@ -29,25 +29,25 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
+    place: "TheMomentum7",
+    tenure: "Jan 2026 - Present",
+    role: "Senior Software Engineer",
+    detail:
+      "Leading development of scalable web applications. Specialized in Golang, Node.js, and Kubernetes architectures.",
+  },
+  {
+    place: "Improwised Technologies",
+    tenure: "Jan 2024 - Dec 2025",
+    role: "Software Engineer",
+    detail:
+      "Built Quiz Management System using Golang & Nuxt. Implemented Ory Kratos. Top contributor to CNCF KubeVela project.",
+  },
+  {
     place: "Computer Engineering",
-    tenure: "Aug 2020 - Running",
-    role: "Web Devloper",
+    tenure: "Aug 2020 - 2024",
+    role: "Student",
     detail:
-      "My Engineering is running G.E.C, Rajkot. Learn C, Java, Data Structure and DBMS. Also brief Knowledge about oops Concept. I start Web devloping from 2nd year. I start React js for Frontend and Create many Project for Learnning",
-  },
-  {
-    place: "11 and 12 Science",
-    tenure: "May 2018 - Mar 2020",
-    role: "Hard Working",
-    detail:
-      "My Science was done in alpha vidhya sankul of junagadh. in science our time table was very strict 7am to 4:30pm and night reading from 7:30pm to 11:30pm daily. In science my Mathematics was very good. I was complete my 12 standard with 72% of marks in board exam",
-  },
-  {
-    place: "School and High School",
-    tenure: "Aug 2008 - Mar 2018",
-    role: "Sports Player",
-    detail:
-      "My primary education is done in my village from standard 1 to 8. during this I was player of my village kho-kho team and also achieve 1st rank in state level. my education of standard 9 and 10 was complete in Alpha School of Junagadh. I complete 10 standard with 91.5% of marks in board exam",
+      "Completed Engineering at G.E.C, Rajkot. Learned C, Java, Data Structures, DBMS, and Web Development.",
   },
 ];
 
