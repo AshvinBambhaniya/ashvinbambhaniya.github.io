@@ -4,8 +4,6 @@ import Skill from "./components/Services/Skill";
 import "./App.css";
 import Experience from "./components/Experience/Experience";
 import Language from "./components/Works/Language";
-import Portfolio from "./components/Portfolio/Portfolio";
-// import Testimonial from "./components/Testimonials/Testimonial";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import { useContext } from "react";
@@ -55,8 +53,6 @@ function App() {
         <Study />
       </div>
       <Language />
-      <Portfolio />
-      {/* <Testimonial /> */}
       <Contact showAlert={showAlert} />
       <Footer />
       <ScrollToTop
