@@ -25,7 +25,7 @@ const Intro = () => {
   const darkMode = theme.state.darkMode;
 
   const { text } = useTypewriter({
-    words: ['Senior Software Engineer', 'Full Stack Developer', 'Cloud Native Enthusiast'],
+    words: ['Senior Software Engineer', 'Full Stack Developer', 'Open-Source Contributor', 'Cloud Native Enthusiast'],
     loop: {},
     typeSpeed: 50,
     deleteSpeed: 50
