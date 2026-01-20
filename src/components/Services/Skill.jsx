@@ -81,7 +81,7 @@ const Services = () => {
           <br />
           Proficient in Golang, Node.js, and Modern Frontend Frameworks.
         </span>
-        <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1gRklANMFo8xmTvsPP8khrg7Er-qOVQ09/view?usp=share_link">
+        <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1ZvVPl8ckMRkL1nh8eW51GiGJ81JthBG0/view?usp=sharing">
           <button className="button s-button">My Resume</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
