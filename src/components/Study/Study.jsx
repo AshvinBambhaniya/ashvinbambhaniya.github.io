@@ -22,7 +22,7 @@ const Study = () => {
 
             <div className="flexCenter container">
                 {/* heading */}
-                <span style={{ textAlign: "center" }} className="primaryText">My Education</span>
+                <span style={{ textAlign: "center" }} className="primaryText">Experience & Education</span>
 
                 <div className="flexCenter experiences">
                     <div className="blur s-blur-study-1" style={{ background: "#ABF1FF94" }}></div>
@@ -44,10 +44,10 @@ const Study = () => {
 
                     <motion.div variants={zoomIn(1, 1)} className="progressbar">
                         <motion.div variants={fadeIn("up", "tween", 2, 1.5)} style={{ backgroundImage: darkMode ? "linear-gradient(white 33%, rgba(255, 255, 255, 0) 0%)" : "" }} className="line"></motion.div>
-                        <div><div className="circle" style={{ background: "#286F6C" }}></div></div>
-                        <div><div className="circle" style={{ background: "#fca61f" }}></div></div>
-                        <div><div className="circle" style={{ background: "#F2704E" }}></div></div>
-                        <div><div className="circle" style={{ background: "#EEC048" }}></div></div>
+                        <div><div className="study-circle" style={{ background: "#286F6C" }}></div></div>
+                        <div><div className="study-circle" style={{ background: "#fca61f" }}></div></div>
+                        <div><div className="study-circle" style={{ background: "#F2704E" }}></div></div>
+                        <div><div className="study-circle" style={{ background: "#EEC048" }}></div></div>
                     </motion.div>
                     <div
                         className="blur s-blur-study-2"
