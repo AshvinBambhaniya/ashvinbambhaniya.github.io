@@ -13,21 +13,21 @@ const FrontModal = (props) => {
             <div className="pop-container">
                 <span onClick={close} className="close">×</span>
                 <div className="pop-skill">
-                    <h2>React</h2>
+                    <h2>Vue.js & Nuxt 3</h2>
                     <div className="progress-bar">
-                        <div className="react"><span>70%</span></div>
+                        <div className="vue"><span>90%</span></div>
                     </div>
-                    <h2>Bootstrap</h2>
+                    <h2>React.js</h2>
                     <div className="progress-bar">
-                        <div className="bootstrap"><span>70%</span></div>
+                        <div className="react"><span>80%</span></div>
                     </div>
-                    <h2>HTML</h2>
+                    <h2>Tailwind CSS</h2>
                     <div className="progress-bar">
-                        <div className="html"><span>65%</span></div>
+                        <div className="tailwind"><span>85%</span></div>
                     </div>
-                    <h2>CSS</h2>
+                    <h2>HTML & CSS</h2>
                     <div className="progress-bar">
-                        <div className="css"><span>65%</span></div>
+                        <div className="html"><span>90%</span></div>
                     </div>
                 </div>
             </div>

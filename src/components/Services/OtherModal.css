@@ -1,65 +1,63 @@
-/* Nodejs */
-.ds {
-    background: #e91e63;
-    animation: ds 2s linear forwards;
+/* K8s/Docker */
+.k8s {
+    background: #326ce5;
+    animation: k8s 2s linear forwards;
 }
 
-.ds span {
-    border: 1px solid #e91e63;
+.k8s span {
+    border: 1px solid #326ce5;
 }
 
-@keyframes ds {
+@keyframes k8s {
+    100% {
+        width: 50%;
+    }
+}
+
+/* Helm/KubeVela */
+.helm {
+    background: #9c27b0;
+    animation: helm 2s linear forwards;
+}
+
+.helm span {
+    border: 1px solid #9c27b0;
+}
+
+@keyframes helm {
+    100% {
+        width: 60%;
+    }
+}
+
+/* CI/CD */
+.cicd {
+    background: #f05032;
+    animation: cicd 2s linear forwards;
+}
+
+.cicd span {
+    border: 1px solid #f05032;
+}
+
+@keyframes cicd {
     100% {
         width: 70%;
     }
 }
 
-/* OOPs */
-.oops {
-    background: #ffeb3b;
-    animation: oops 2s linear forwards;
-}
-
-.oops span {
-    background: #ffeb3b;
-    border: 1px solid #ffeb3b;
-}
-
-@keyframes oops {
-    100% {
-        width: 65%;
-    }
-}
-
-
 /* SQL */
 .sql {
-    background: #9c27b0;
+    background: #00bcd4;
     animation: sql 2s linear forwards;
 }
 
 .sql span {
-    border: 1px solid #9c27b0;
+    border: 1px solid #00bcd4;
 }
 
 @keyframes sql {
     100% {
-        width: 65%;
-    }
-}
-
-/* Git */
-.git {
-    background: #00bcd4;
-    animation: git 2s linear forwards;
-}
-
-.git span {
-    border: 1px solid #00bcd4;
-}
-
-@keyframes git {
-    100% {
-        width: 55%;
+        width: 75%;
     }
 }

@@ -13,21 +13,21 @@ const OtherModal = (props) => {
             <div className="pop-container">
                 <span onClick={close} className="close">×</span>
                 <div className="pop-skill">
-                    <h2>Data Structure</h2>
+                    <h2>Kubernetes & Docker</h2>
                     <div className="progress-bar">
-                        <div className="ds"><span>70%</span></div>
+                        <div className="k8s"><span>50%</span></div>
                     </div>
-                    <h2>Oject Oriented Programming</h2>
+                    <h2>Helm & KubeVela</h2>
                     <div className="progress-bar">
-                        <div className="oops"><span>65%</span></div>
+                        <div className="helm"><span>60%</span></div>
                     </div>
-                    <h2>SQL</h2>
+                    <h2>CI/CD (Git/Actions)</h2>
                     <div className="progress-bar">
-                        <div className="sql"><span>65%</span></div>
+                        <div className="cicd"><span>70%</span></div>
                     </div>
-                    <h2>Git Command</h2>
+                    <h2>SQL & Databases</h2>
                     <div className="progress-bar">
-                        <div className="git"><span>55%</span></div>
+                        <div className="sql"><span>75%</span></div>
                     </div>
                 </div>
             </div>

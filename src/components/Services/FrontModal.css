@@ -1,66 +1,63 @@
+/* Vue/Nuxt */
+.vue {
+    background: #42b883;
+    animation: vue 2s linear forwards;
+}
+
+.vue span {
+    border: 1px solid #42b883;
+}
+
+@keyframes vue {
+    100% {
+        width: 90%;
+    }
+}
+
 /* React */
 .react {
-    background: #e91e63;
+    background: #61dafb;
     animation: react 2s linear forwards;
 }
 
 .react span {
-    border: 1px solid #e91e63;
+    border: 1px solid #61dafb;
 }
 
 @keyframes react {
     100% {
-        width: 70%;
+        width: 80%;
     }
 }
 
-
-/* Bootstrap */
-.bootstrap {
-    background: #9c27b0;
-    animation: bootstrap 2s linear forwards;
+/* Tailwind */
+.tailwind {
+    background: #38bdf8;
+    animation: tailwind 2s linear forwards;
 }
 
-.bootstrap span {
-    border: 1px solid #9c27b0;
+.tailwind span {
+    border: 1px solid #38bdf8;
 }
 
-@keyframes bootstrap {
+@keyframes tailwind {
     100% {
-        width: 70%;
+        width: 85%;
     }
 }
 
-
-/* Html */
+/* HTML/CSS */
 .html {
-    background: #00bcd4;
+    background: #e44d26;
     animation: html 2s linear forwards;
 }
 
 .html span {
-    border: 1px solid #00bcd4;
+    border: 1px solid #e44d26;
 }
 
 @keyframes html {
     100% {
-        width: 65%;
-    }
-}
-
-
-/* Css */
-.css {
-    background: #cddc39;
-    animation: css 2s linear forwards;
-}
-
-.css span {
-    border: 1px solid #cddc39;
-}
-
-@keyframes css {
-    100% {
-        width: 65%;
+        width: 90%;
     }
 }

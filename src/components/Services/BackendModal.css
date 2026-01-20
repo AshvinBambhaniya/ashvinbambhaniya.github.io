@@ -1,66 +1,63 @@
-/* Nodejs */
+/* Golang */
+.golang {
+    background: #00add8;
+    animation: golang 2s linear forwards;
+}
+
+.golang span {
+    border: 1px solid #00add8;
+}
+
+@keyframes golang {
+    100% {
+        width: 90%;
+    }
+}
+
+/* Node */
 .node {
-    background: #e91e63;
+    background: #83cd29;
     animation: node 2s linear forwards;
 }
 
 .node span {
-    border: 1px solid #e91e63;
+    border: 1px solid #83cd29;
 }
 
 @keyframes node {
     100% {
-        width: 25%;
+        width: 80%;
     }
 }
 
-
-/* Express */
-.express {
-    background: #9c27b0;
-    animation: express 2s linear forwards;
+/* Laravel */
+.laravel {
+    background: #ff2d20;
+    animation: laravel 2s linear forwards;
 }
 
-.express span {
-    border: 1px solid #9c27b0;
+.laravel span {
+    border: 1px solid #ff2d20;
 }
 
-@keyframes express {
+@keyframes laravel {
     100% {
-        width: 36%;
+        width: 30%;
     }
 }
 
-/* JS */
-.js {
-    background: #ffeb3b;
-    animation: js 2s linear forwards;
+/* Python */
+.python {
+    background: #ffe873;
+    animation: python 2s linear forwards;
 }
 
-.js span {
-    background: #ffeb3b;
-    border: 1px solid #ffeb3b;
+.python span {
+    border: 1px solid #ffe873;
 }
 
-@keyframes js {
+@keyframes python {
     100% {
         width: 75%;
-    }
-}
-
-
-/* Mongo */
-.mongo {
-    background: #00bcd4;
-    animation: node 2s linear forwards;
-}
-
-.mongo span {
-    border: 1px solid #00bcd4;
-}
-
-@keyframes mongo {
-    100% {
-        width: 25%;
     }
 }
