@@ -39,7 +39,7 @@ const Navbar = () => {
             </li>
             <li>
               <Link className="nav-font-bold" to="education" spy={true} smooth={true}>
-                Education
+                Experience
               </Link>
             </li>
             <li>
@@ -47,16 +47,6 @@ const Navbar = () => {
                 Languages
               </Link>
             </li>
-            <li>
-              <Link className="nav-font-bold" to="portfolio" spy={true} smooth={true}>
-                Portfolio
-              </Link>
-            </li>
-            {/* <li>
-              <Link to="testimonial" spy={true} smooth={true}>
-                Testimonial
-              </Link>
-            </li> */}
           </ul>
         </div>
         <Link to="contact" spy={true} smooth={true}>

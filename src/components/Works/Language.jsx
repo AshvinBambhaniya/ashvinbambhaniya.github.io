@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import "./Language.css";
-import C from "../../img/c.png";
-import Java from "../../img/java.png";
+import Golang from "../../img/golang.svg";
+import K8s from "../../img/k8s.svg";
 import React_logo from "../../img/logo192.png";
 import JS from "../../img/JS.png";
 import Python from "../../img/Python.png";
@@ -26,19 +26,19 @@ const Works = () => {
         <div className="awesome">
           {/* dark Mode */}
           <span id="lan-header-1" style={{ color: darkMode ? "white" : "" }}>
-            Code in All these
+            Expertise in Modern
           </span>
-          <span>Languages</span>
+          <span>Technologies</span>
           <span>
-            My main and I love to use React js library for FrontEnd Devlopment
+            Highly proficient in Golang and Node.js for building scalable backend systems.
             <br />
-            JavaScript is my main and favorite language for Web Devlopment.
+            Expertise in Kubernetes and Cloud Native architectures.
             <br />
-            Good Knowledge in Java such as learn oops concept and DataStructures in java.
+            Building modern, high-performance web applications with Nuxt 3 and React.
             <br />
-            In C and Python learn only basic and core Programming syntax and concept
+            Passionate about Open Source and contributing to the CNCF ecosystem.
           </span>
-          <a target='_blank' rel="noreferrer" href="https://drive.google.com/drive/folders/13gp9XIOzQwNcj4f0v85yxhPqt-EIfqQg?usp=share_link"><button className="button s-button">Certificates</button></a>
+          <a target='_blank' rel="noreferrer" href="https://github.com/kubevela/kubevela/commits?author=AshvinBambhaniya2003"><button className="button s-button">Contributions</button></a>
           <div
             className="blur s-blur1"
             style={{ background: "#ABF1FF94" }}
@@ -55,31 +55,23 @@ const Works = () => {
           transition={{ duration: 5, type: "spring" }}
           className="w-mainCircle"
         >
-          <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/11JY4TjeyUV5akVkZoQvEkKWPmwfLGXsJ/view?usp=share_link">
-            <div className="w-secCircle">
-              <img src={C} alt="" />
-            </div>
-          </a>
-          <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1GnZ554xpTja-pneO_2C8BumboG0cYcj_/view?usp=share_link">
-            <div className="w-secCircle">
-              <img src={Java} alt="" />
-            </div>
-          </a>
-          <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1GbWC1lLLIoVWnWBnXNDitYit6KOYY5KL/view?usp=share_link">
-            <div className="w-secCircle">
-              <img src={React_logo} alt="" />
-            </div>
-          </a>
-          <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1nkHrB0APbt0G7bWcCp4y7XkfY-hLsGDW/view?usp=share_link">
-            <div className="w-secCircle">
-              <img src={JS} alt="" />
-            </div>
-          </a>
-          <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1XY2AU7Nv9gSwi5mpjbOdM4yYNkQGj0ew/view?usp=share_link">
-            <div className="w-secCircle">
-              <img src={Python} alt="" />
-            </div>
-          </a>
+          <div className="w-secCircle">
+            <img src={Golang} alt="" />
+          </div>
+          <div className="w-secCircle">
+            {/* <img src={K8s} alt="" /> */}
+            <img src={React_logo} alt="" />
+          </div>
+          <div className="w-secCircle">
+            {/* <img src={React_logo} alt="" /> */}
+            <img src={K8s} alt="" />
+          </div>
+          <div className="w-secCircle">
+            <img src={JS} alt="" />
+          </div>
+          <div className="w-secCircle">
+            <img src={Python} alt="" />
+          </div>
         </motion.div>
         {/* background Circles */}
         <div className="w-backCircle blueCircle"></div>

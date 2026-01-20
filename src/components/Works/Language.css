@@ -113,13 +113,10 @@
   /* border-radius: 10%; */
 }
 .w-mainCircle> :nth-child(3) img {
-  transform: scale(0.45);
+  transform: scale(0.15);
 }
 .w-mainCircle> :nth-child(2) img {
-  transform: scale(0.045);
-}
-.w-mainCircle> :nth-child(1) img {
-  transform: scale(0.06);
+  transform: scale(0.45);
 }
 
 .w-backCircle {
