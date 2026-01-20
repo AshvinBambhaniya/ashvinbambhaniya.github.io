@@ -13,21 +13,21 @@ const BackendModal = (props) => {
             <div className="pop-container">
                 <span onClick={close} className="close">×</span>
                 <div className="pop-skill">
-                    <h2>NodeJs</h2>
+                    <h2>Golang</h2>
                     <div className="progress-bar">
-                        <div className="node"><span>25%</span></div>
+                        <div className="golang"><span>90%</span></div>
                     </div>
-                    <h2>Expess</h2>
+                    <h2>Node.js & Express</h2>
                     <div className="progress-bar">
-                        <div className="express"><span>36%</span></div>
+                        <div className="node"><span>80%</span></div>
                     </div>
-                    <h2>JavaScript</h2>
+                    <h2>Python</h2>
                     <div className="progress-bar">
-                        <div className="js"><span>75%</span></div>
+                        <div className="python"><span>75%</span></div>
                     </div>
-                    <h2>MongoDB</h2>
+                    <h2>Laravel</h2>
                     <div className="progress-bar">
-                        <div className="mongo"><span>25%</span></div>
+                        <div className="laravel"><span>30%</span></div>
                     </div>
                 </div>
             </div>

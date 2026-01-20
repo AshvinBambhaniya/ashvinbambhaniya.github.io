@@ -59,11 +59,9 @@ const Works = () => {
             <img src={Golang} alt="" />
           </div>
           <div className="w-secCircle">
-            {/* <img src={K8s} alt="" /> */}
             <img src={React_logo} alt="" />
           </div>
           <div className="w-secCircle">
-            {/* <img src={React_logo} alt="" /> */}
             <img src={K8s} alt="" />
           </div>
           <div className="w-secCircle">

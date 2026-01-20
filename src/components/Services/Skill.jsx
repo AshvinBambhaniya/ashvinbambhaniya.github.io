@@ -77,9 +77,9 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>Skills</span>
         <span>
-          My Js and React knowledge is good and I create Website using React Library
+          Expertise in building scalable web applications and Kubernetes-based systems.
           <br />
-          Also quite good in HTML, CSS and BootStrap.
+          Proficient in Golang, Node.js, and Modern Frontend Frameworks.
         </span>
         <a target='_blank' rel="noreferrer" href="https://drive.google.com/file/d/1gRklANMFo8xmTvsPP8khrg7Er-qOVQ09/view?usp=share_link">
           <button className="button s-button">My Resume</button>
@@ -97,7 +97,7 @@ const Services = () => {
           <Card
             emoji={HeartEmoji}
             heading={"Frontend"}
-            detail={"React Library, JavaScript, Html, Css, Bootstrap Framework"}
+            detail={"Nuxt 3, Vue.js, React.js, Tailwind CSS, Bootstrap"}
             popup={handleShowF}
           />
         </motion.div>
@@ -109,8 +109,8 @@ const Services = () => {
         >
           <Card
             emoji={Glasses}
-            heading={"Backend "}
-            detail={" Nodejs Framework, Express js, JavaScript, Mongodb Connection"}
+            heading={"Backend"}
+            detail={"Golang, Node.js (Express), Python (FastAPI), Laravel"}
             popup={handleShowB}
           />
         </motion.div>
@@ -122,8 +122,8 @@ const Services = () => {
         >
           <Card
             emoji={Humble}
-            heading={"Other"}
-            detail={"Data Structure, OOPs Concept, SQL CRUD Query, GitHub command"}
+            heading={"Cloud/DevOps"}
+            detail={"Docker, Kubernetes, Helm, GitHub Actions, Flux"}
             color="rgba(252, 166, 31, 0.45)"
             popup={handleShowO}
           />
