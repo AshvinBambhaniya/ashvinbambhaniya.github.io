@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.42766de0.css",
-    "main.js": "/static/js/main.3dda1616.js",
+    "main.css": "/static/css/main.5152846b.css",
+    "main.js": "/static/js/main.6594347d.js",
     "static/media/Food.png": "/static/media/Food.71fe21aee619cf9ad4cf.png",
     "static/media/Library.png": "/static/media/Library.baeb018dbc9fc18be139.png",
     "static/media/Flipkart.png": "/static/media/Flipkart.74f07662db981d90a761.png",
@@ -25,11 +25,11 @@
     "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "static/media/scroll.svg": "/static/media/scroll.e5ab27104eb183036764e2493b8904c8.svg",
     "index.html": "/index.html",
-    "main.42766de0.css.map": "/static/css/main.42766de0.css.map",
-    "main.3dda1616.js.map": "/static/js/main.3dda1616.js.map"
+    "main.5152846b.css.map": "/static/css/main.5152846b.css.map",
+    "main.6594347d.js.map": "/static/js/main.6594347d.js.map"
   },
   "entrypoints": [
-    "static/css/main.42766de0.css",
-    "static/js/main.3dda1616.js"
+    "static/css/main.5152846b.css",
+    "static/js/main.6594347d.js"
   ]
 }
