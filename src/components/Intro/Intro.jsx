@@ -25,7 +25,7 @@ const Intro = () => {
   const darkMode = theme.state.darkMode;
 
   const { text } = useTypewriter({
-    words: ['Ashvin Bambhaniya', 'Web Developer', 'Computer Engineer'],
+    words: ['Senior Software Engineer', 'Full Stack Developer', 'Cloud Native Enthusiast'],
     loop: {},
     typeSpeed: 50,
     deleteSpeed: 50
@@ -46,8 +46,8 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>{text}<Cursor /></span>
           <span>
-            Web Developer with good knowledge in React
-            and Express, producting the Quality work
+            Full Stack Developer with expertise in Golang, Node.js,
+            and Kubernetes-based scalable systems.
           </span>
         </motion.div>
         <motion.div
@@ -86,7 +86,7 @@ const Intro = () => {
           transition={transition}
           className="floating-div"
         >
-          <FloatinDiv img={thumbup} text1="Computer Engineering" text2="Student" />
+          <FloatinDiv img={thumbup} text1="Cloud" text2="Native" />
 
         </motion.div>
 
@@ -98,7 +98,7 @@ const Intro = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={crown} text1="Web" text2="Developer" />
+          <FloatinDiv img={crown} text1="Software" text2="Engineer" />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
